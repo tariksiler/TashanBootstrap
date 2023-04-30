@@ -1,0 +1,27 @@
+button {
+    border-style: none;
+    background-color: transparent;
+}
+
+body{
+    margin-top: 10px;
+}
+
+.baslık {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    position: sticky ;
+}
+
+.buttonhk {
+    background-color: rgb(23, 98, 160);
+    border-radius: 5px;
+}
+
+img {
+    width: 350px;
+    height: 400px;
+}
